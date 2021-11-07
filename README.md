@@ -1,7 +1,8 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/140658433-b198450e-f1a2-439a-a03a-a97bfb0798c8.png" align="left" height="150px" width="150px">
+    <h1># Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesta sessão vamos desenvolver uma API de gerenciamento de heróis utilizando Spring WebFlux, utilizada por empresas como Netflix e Pivotal, junto com a library reactiva Reactor que atualmente é mantida pela VmWare. Além disso, usaremos o banco DynamoDb localmente para armazenar nossos dados e será demonstrado como realizar testes unitários da sua API com Junit e como gerar documentações simples por meio do Postman e também Swagger.
+    
     </p>
 </p>      
 
